@@ -5,4 +5,4 @@ Devocean 스프링 배치 스터디
 스터디 교안 : [[SpringBatch 연재 01] SpringBatch 빠르게 시작하기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=166164&searchData=&subIndex=&searchText=&techType=&searchDataSub=&searchDataMain=)
 #### 공부한 내용 정리
 - 티스토리 :
-- draw.io : 
+- draw.io : [Spring Batch 1회](https://app.diagrams.net/#G1_VDfDR9GcpGAwB1CrflQG03vbX_134YK#%7B%22pageId%22%3A%22rYDCpeFF8ggr71eoV4WD%22%7D)
