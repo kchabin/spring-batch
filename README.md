@@ -6,3 +6,8 @@ Devocean 스프링 배치 스터디
 #### 공부한 내용 정리
 - 티스토리 : [Spring Batch (1) : 스프링배치 빠르게 시작하기](https://uysuiiii.tistory.com/146)
 
+
+## 2회차(10월 15일 화)
+스터디 교안 : [[SpringBatch 연재 02] SpringBatch 코드 설명 및 아키텍처 알아보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=166690&boardType=techBlog&searchData=&searchDataMain=DEV_FRW&page=&subIndex=&searchText=&techType=&searchDataSub=)
+#### 공부한 내용 정리
+- [2. SpringBatch 코드 설명 및 아키텍처 알아보기](https://kchabin.notion.site/2-SpringBatch-11fd258d86938017be4cf6796f6127e1?pvs=4)
